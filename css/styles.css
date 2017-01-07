@@ -27,7 +27,7 @@ button {
 }
 
 .results {
-  margin-top: 1em;
+  margin-top: 1em auto 0;
   font-size: 2.5em;
 }
 
@@ -35,7 +35,9 @@ button {
   content: "Tip Amount";
   font-size: .4em;
   display: block;
+  margin-top: 2em;
 }
+
 
 form select {
   padding: 8px;
